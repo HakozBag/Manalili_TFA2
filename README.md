@@ -1,2 +1,2 @@
-# Manalili_TFA1
-IT0049 Web System Technologies - TFA1 CodeIgniter POS Application
+# Manalili_TFA2
+IT0049 Web System Technologies - TFA2 CodeIgniter POS Application
